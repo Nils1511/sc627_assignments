@@ -12,7 +12,7 @@ from tf.transformations import euler_from_quaternion
 ANG_MAX = math.pi/18
 VEL_MAX = 0.15
 
-class collision_avoidance
+class collision_avoid
 
     def __init__(self):
         self.start_time=0
